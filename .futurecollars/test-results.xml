@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="2.486">
+  <testsuite name="Funkcja uniqArray" errors="0" failures="0" skipped="0" timestamp="2021-04-19T10:20:32" time="1.398" tests="3">
+    <testcase classname="Funkcja uniqArray powinna zwrócić tablicę" name="Funkcja uniqArray powinna zwrócić tablicę" time="0.002">
+    </testcase>
+    <testcase classname="Funkcja uniqArray nie powinna modyfikować przekazywanego parametru" name="Funkcja uniqArray nie powinna modyfikować przekazywanego parametru" time="0.001">
+    </testcase>
+    <testcase classname="Funkcja uniqArray powinna zwracać jedną tablicę z unikalnymi wartościami" name="Funkcja uniqArray powinna zwracać jedną tablicę z unikalnymi wartościami" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
